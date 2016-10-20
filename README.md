@@ -1,0 +1,2 @@
+# goscripts
+Go exercises
